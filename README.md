@@ -13,7 +13,7 @@ This project is a music player application that focuses on providing an intuitiv
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-music-player.git`
+1. Clone the repository: `https://github.com/Srishti2301/Music-Player.git`
 2. Navigate to the project directory: `cd Music`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start
